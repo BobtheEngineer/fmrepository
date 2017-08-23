@@ -3,20 +3,17 @@
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/alfa-104-5-fm-monterrey.png",ALFA 104.5
 http://14963.live.streamtheworld.com/XHFAJ_FM_SC
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free World IPTV
-http://14963.live.streamtheworld.com/XHFAJ_FM_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/d99-98-9-fm-monterrey.png",D99 98.9
+http://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC
 
-#EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please Donate
-http://sc9106.xpx.pl:9106/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/exa-97-3-fm-monterrey.png",EXA FM 97.3
+http://18393.live.streamtheworld.com/XHRSMTYFM_SC 
+ 
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/milenio-radio-103-7-fm-",MILENIO RADIO 103.7
+http://18783.live.streamtheworld.com/MMRDO_SC
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.22.2017
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/imagen-107-7-fm-monterrey.png",IMAGEN 107.7
+http://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM_SC
 
-#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hCBbSwn.png" group-title="LABEL",@ Now Available
-http://audio4.broadcastify.com/il_chicago_police2.mp3
-
-#EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/classic-106-9-fm-monterrey.png",CLASSIC 106.9
+http://15363.live.streamtheworld.com/CLASSIC106_SC
