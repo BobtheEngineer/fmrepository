@@ -9,7 +9,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/exa-97-3-fm-monterrey.png",EXA FM 97.3
 http://18393.live.streamtheworld.com/XHRSMTYFM_SC 
  
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/milenio-radio-103-7-fm-",MILENIO RADIO 103.7
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/milenio-radio-103-7-fm-monterrey.png",MILENIO RADIO 103.7
 http://18783.live.streamtheworld.com/MMRDO_SC
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/imagen-107-7-fm-monterrey.png",IMAGEN 107.7
@@ -17,3 +17,12 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFM_SC
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/classic-106-9-fm-monterrey.png",CLASSIC 106.9
 http://15363.live.streamtheworld.com/CLASSIC106_SC
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/rock-fm-91-7-monterrey.png",ROCK-FM 91.7
+http://18443.live.streamtheworld.com/ROCK_FMAAC_SC
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/opus-102-monterrey.png",OPUS
+http://50.22.218.197:8678
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/aw-inolvidable-101-3-fm-monterrey.png",AW 101.3
+http://16693.live.streamtheworld.com/XHAWFM_SC
