@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/alfa-104-5-fm-monterrey.png",ALFA 104.5
-http://18733.live.streamtheworld.com/XHFAJ_FM_SC
+http://14613.live.streamtheworld.com/XHFAJ_FM_SC
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/d99-98-9-fm-monterrey.png",D99 98.9
 http://playerservices.streamtheworld.com/api/livestream-redirect/D99_SC
@@ -26,3 +26,19 @@ http://50.22.218.197:8678
 
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/aw-inolvidable-101-3-fm-monterrey.png",AW 101.3
 http://16693.live.streamtheworld.com/XHAWFM_SC
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s28189q.png",NEW YORK - WDDH 97.50 The hound (Country)
+http://icy3.abacast.com/laurelmedia-wddhfmmp3-64?source=TuneIn
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s30363/images/logoq.jpg?t=636274",NEW YORK - WKRB 90.3 (Electronic & Dance)
+http://146.111.118.62:8000/radio
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s27494q.png",NEW YORK - EXIT 97.7 (World Music)
+http://wmht.streamguys1.com/wext1
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/internetradiouk-com/bbc-radio-1.png",UK - BBC RADIO 1(WORLD MUSIC)
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/internetradiouk-com/teamrock.png",UK - TEAM ROCK FM (ROCK!)
+https://stream.radio.co/s79158a158/listen
+
