@@ -42,3 +42,5 @@ http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/internetradiouk-com/teamrock.png",UK - TEAM ROCK FM (ROCK!)
 https://stream.radio.co/s79158a158/listen
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s22916/images/logoq.jpg",NEW YORK - WSOU 89.5 THE LOUDEST ROCK (ROCK!)
+http://crystalout.surfernetwork.com:8001/WSOU_MP3
