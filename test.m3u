@@ -47,3 +47,6 @@ http://crystalout.surfernetwork.com:8001/WSOU_MP3
 
 #EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/66/51/5039/c175.png",EUGENE - USA WHISPERINGS SOLO PIANO RADIO
 http://pianosolo.streamguys.net/live
+
+#EXTINF:-1 tvg-logo="http://www.classicalguitarnw.org/images/pic_4.jpg",CLASSIC GUITAR
+http://radio.ericksons.net:8000/cgnw
